@@ -21,11 +21,17 @@ The dataset here does not include attachments, and some messages have been delet
 
 
 # Analysis:
-We can see the different types of emails sent during Enron Scandal [here.]
-We can see when the meeting emails were sent [here.]
-We can see when the casual emails were sent [here.]
-We can see when the core emails were sent [here.]
-We can see when the process related emails were sent [here.]
-We can see list of emails Jeffrey Skilling interacted the most with [here.]
+We can see when the meeting emails were sent [here.](https://github.com/swarupmishal/Exploratory-Data-Analysis-of-Enron-Scandal/blob/master/que%5B1%5D/ana_%5B1%5D/Distribution%20of%20meeting%20emails%20sent%20over%20time.csv)
+
+We can see when the casual emails were sent [here.](https://github.com/swarupmishal/Exploratory-Data-Analysis-of-Enron-Scandal/blob/master/que%5B1%5D/ana_%5B1%5D/Distribution%20of%20casual%20emails%20sent%20over%20time.csv)
+
+We can see when the core emails were sent [here.](https://github.com/swarupmishal/Exploratory-Data-Analysis-of-Enron-Scandal/blob/master/que%5B1%5D/ana_%5B1%5D/Distribution%20of%20core%20emails%20sent%20over%20time.csv)
+
+We can see when the process related emails were sent [here.](https://github.com/swarupmishal/Exploratory-Data-Analysis-of-Enron-Scandal/blob/master/que%5B1%5D/ana_%5B1%5D/Distribution%20of%20process%20emails%20sent%20over%20time.csv)
+
+We can see list of emails Jeffrey Skilling interacted the most with [here.](https://github.com/swarupmishal/Exploratory-Data-Analysis-of-Enron-Scandal/blob/master/que%5B1%5D/ana_%5B1%5D/Skilling%20interaction%20email%20frequency.csv)
 
 # Conclusion:
+From the outputs seen above we can understand number of meeting related emails, casual emails, process related emails and core business related emails and when they were sent. We can analyze that most of the enron emails consisted of Business Process. Casual meeting related emails were more than official meeting, which can be a result of fraudulent activities carried on within Enron. There were moderate number of core business related emails sent. If we observe carefully there is a huge spike in core business emails towards the end, maybe to hide their fraudulent activities. 
+
+Also we have analyzed top 10 emails whom Jeffrey Skilling, the CEO of Enron, who was involved in the scandal interacted with. Further investigation can be carried out on these emails.
